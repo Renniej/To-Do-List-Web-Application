@@ -1,0 +1,25 @@
+{
+  "name": "to-do-list-web-application",
+  "version": "1.0.0",
+  "description": "Web based to do list app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renniej/To-Do-List-Web-Application.git"
+  },
+  "author": "Rennie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renniej/To-Do-List-Web-Application/issues"
+  },
+  "homepage": "https://github.com/Renniej/To-Do-List-Web-Application#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
+}
